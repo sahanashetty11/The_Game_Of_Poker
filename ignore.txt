@@ -1,0 +1,5 @@
+[{'action': 'fold'}, {'action': 'call'}, {'action': 'raise'}]
+['S8', 'D5']
+
+
+{'street': 'preflop', 'pot': {'main': {'amount': 30}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 10, 'seats': [{'name': 'f1', 'uuid': 'udantliteezsanyoyjbwjv', 'stack': 9980, 'state': 'participating'}, {'name': 'FT2', 'uuid': 'vahnksdmmfpafclfkwoqwq', 'stack': 9990, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 10, 'add_amount': 10, 'uuid': 'vahnksdmmfpafclfkwoqwq'}, {'action': 'BIGBLIND', 'amount': 20, 'add_amount': 10, 'uuid': 'udantliteezsanyoyjbwjv'}]}}

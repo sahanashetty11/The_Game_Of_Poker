@@ -1,0 +1,18 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Brown and Sandholm(2019)]{brown2019poker}
+Noam Brown and Tuomas Sandholm.
+\newblock Superhuman ai for multiplayer poker.
+\newblock \emph{Science}, 365\penalty0 (6456):\penalty0 885--890, 2019.
+
+\bibitem[Caragiannis et~al.(2016)Caragiannis, Kurokawa, Moulin, Procaccia, Shah, and Wang]{Caragiannis2016MNW}
+Ioannis Caragiannis, David Kurokawa, Herv\'{e} Moulin, Ariel~D. Procaccia, Nisarg Shah, and Junxing Wang.
+\newblock The unreasonable fairness of maximum {N}ash welfare.
+\newblock In \emph{Proceedings of the 17th ACM Conference on Economics and Computation (EC)}, page 305–322, 2016.
+
+\end{thebibliography}
